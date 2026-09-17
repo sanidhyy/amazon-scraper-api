@@ -72,7 +72,7 @@ Please adhere to this project's `code of conduct`.
 
 ## :copyright: License
 
-[MIT](https://github.com/Technical-Shubham-tech/amazon-scraper-api/blob/main/LICENSE.md)
+[MIT](https://github.com/sanidhyy/amazon-scraper-api/blob/main/LICENSE.md)
 
 ## ⭐ Give A Star
 
